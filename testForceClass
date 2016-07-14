@@ -1,8 +1,8 @@
 public with sharing class testForceClass {
   
-  public void Account() {
-    	Account someAcc = new Account(Name='Barking Studios');
-    }
+  public void Contact() {
+  	Contact someContact = new Contact(Name='Joe John');
+  }
 }
 
 
